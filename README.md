@@ -1,2 +1,2 @@
-# supreme-carnival
+I am editing the README file. Adding some more details about the project description.# supreme-carnival
 coursera qwiklabs
